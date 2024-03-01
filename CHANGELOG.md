@@ -1,3 +1,9 @@
+## 0.1.2
+
+Released 2024-03-01
+
+  - Update README.md
+
 ## 0.1.1
 
 Released 2023-12-26
